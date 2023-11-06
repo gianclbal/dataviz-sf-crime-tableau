@@ -20,7 +20,7 @@ Our goal for the San Francisco temporal and spatial crime analysis is to create 
 
 
 ###  Design
-![](2023-11-05-19-51-45.png)
+[![](2023-11-05-19-51-45.png)](https://github.com/gianclbal/sf-crime-viz-tableau/blob/main/assets/2023-11-05-19-51-45.png?raw=true)
 The diagram above showcases the design of our visualization system. We obtained “Police Department Incident Reports: 2018 to Present” data from DataSF as our dataset and saved it as a CSV file. Then we preprocessed the data for our key questions by removing unnecessary variables, creating new features and cleaning incomplete data. We utilized Tableau to develop four unique dashboards that address questions within their respective categories of crime by category, crime by time, crime by neighborhood and crime by police district.
 
 ## Link to Dashboard
